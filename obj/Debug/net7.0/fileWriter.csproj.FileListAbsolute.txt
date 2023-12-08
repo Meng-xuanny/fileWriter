@@ -1,0 +1,15 @@
+/Users/mengxuan/Projects/test/fileWriter/bin/Debug/net7.0/fileWriter
+/Users/mengxuan/Projects/test/fileWriter/bin/Debug/net7.0/fileWriter.deps.json
+/Users/mengxuan/Projects/test/fileWriter/bin/Debug/net7.0/fileWriter.runtimeconfig.json
+/Users/mengxuan/Projects/test/fileWriter/bin/Debug/net7.0/fileWriter.dll
+/Users/mengxuan/Projects/test/fileWriter/bin/Debug/net7.0/fileWriter.pdb
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.csproj.AssemblyReference.cache
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.AssemblyInfoInputs.cache
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.AssemblyInfo.cs
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.dll
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/refint/fileWriter.dll
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.pdb
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/fileWriter.genruntimeconfig.cache
+/Users/mengxuan/Projects/test/fileWriter/obj/Debug/net7.0/ref/fileWriter.dll
